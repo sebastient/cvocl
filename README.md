@@ -1,0 +1,4 @@
+cvocl
+=====
+
+OpenCV OpenCL Testing
